@@ -11,6 +11,6 @@ License :
 -------
 M.I.T. License
 
-Contact me at brian@mrbriandesign.com
+Contact me: brian@mrbriandesign.com
 
 
