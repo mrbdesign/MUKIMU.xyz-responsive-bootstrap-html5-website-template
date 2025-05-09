@@ -1051,3 +1051,20 @@ padding: 7px 0 0;
 #services {
   padding-top: 100px;
 }
+.single-testimonial img {
+  border-radius: 50%;
+  opacity: 1; /* Set opacity to 100% */
+  width: 90px; /* Increase size by 50% (original size assumed to be 50px) */
+  height: 90px; /* Maintain aspect ratio */
+}
+#our-team {
+  background: url('images/BKGD.jpg') no-repeat center center;
+  background-size: cover;
+}
+.single-testimonial blockquote {
+  background-color: #002b80; /* Set background to black */
+  color: white; /* Set text color to white */
+  padding: 20px; /* Add padding for better spacing */
+  border-radius: 10px; /* Optional: Add rounded corners */
+  opacity: 1; /* Ensure full opacity */
+}
